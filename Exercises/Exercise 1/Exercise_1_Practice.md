@@ -26,22 +26,15 @@ Exercise 1 - Introduction to R 1/3 - Practice
 
 Calculate using RStudio:
 
-1.  <span style="color:blue; font-size:1.5rem"> <math> <mrow> <mfrac>
-    <mrow><mn>1</mn></mrow> <mrow><mn>3</mn></mrow> </mfrac> <mfrac>
-    <mrow> <mn>1</mn> <mo>+</mo> <mn>3</mn> <mo>+</mo> <mn>5</mn>
-    <mo>+</mo> <mn>7</mn> <mo>+</mo> <mn>2</mn> </mrow> <mrow>
-    <mn>3</mn> <mo>+</mo> <mn>5</mn> <mo>+</mo> <mn>4</mn> </mrow>
-    </mfrac> </mrow> </math> </span>
+1.  $\frac{1}{3}\frac{1+3+5+7+2}{3 + 5 + 4}$
 
-2.  How can you calculate Euler’s number
-    <span style="color:blue; font-size:1.5rem; font-weight: bold;">ⅇ</span>?
+2.  How can you calculate Euler’s number ⅇ?
 
-3.  <span style="color:blue; font-size:1.5rem;">√2</span>
+3.  √2
 
-4.  <span style="color:blue; font-size:1.5rem;">∛8</span>
+4.  ∛8
 
-5.  <span style="color:blue; font-size:1.5rem;"><i>log<sub>2</sub></i>
-    (8)</span>
+5.  <i>log<sub>2</sub></i> (8)
 
 ### Statistical Functions
 
@@ -49,10 +42,8 @@ Calculate using RStudio:
 
 2.  Calculate the mean value of the vector \[1, 3, 4, 7, 11, 2\].
 
-3.  Display the span from
-    <span style="color:blue; font-size:1.5rem;">x<sub>min</sub></span>
-    to<span style="color:blue; font-size:1.5rem;">
-    x<sub>max</sub></span> of this vector.
+3.  Display the span from x<sub>min</sub> to x<sub>max</sub> of this
+    vector.
 
 4.  Calculate the sum of this vector.
 
