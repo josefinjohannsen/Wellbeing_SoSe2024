@@ -28,7 +28,7 @@ R is a free software environment for statistical analysis.
 
 Your opened RStudio should look something like the following:
 
-<img src="RStudio_GUI.png" width="960" height="525/"/>
+<img src="./MD_IMG/RStudio_GUI.png" width="960" height="525/"/>
 
 The RStudio GUI consists of several areas. In the console area, R code
 can be entered, which is then interpreted (executed) by R. The `>`
@@ -75,7 +75,7 @@ The selected area is always shown in dark. Source: [R for Data
 Science](https://r4ds.had.co.nz/)
 
 <figure>
-<img src="transform-logical.png"
+<img src="./MD_IMG/transform-logical.png"
 alt="Illustration of the Logical Operators" />
 <figcaption aria-hidden="true">Illustration of the Logical
 Operators</figcaption>
